@@ -11,28 +11,28 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to In The Zone Athletics!
+    text: Home of the Matadors
+    button: Tryout Form
+    buttonlink: https://docs.google.com/forms/d/e/1FAIpQLSfT4VLKGpUIsqw0u_BN2RUwC43zlI_uvIy69xR0hmr2oP9V1A/viewform
 
   services:
-    title: "Services"
+    title: "Skills"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Pitching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-bullseye #find more at https://fontawesome.com/icons
+      - title: "Hitting"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-baseball-ball
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-eye
+      - title: "Fielding"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-baseball
+        icon: fas fa-baseball-ball
 
   portfolio:
-    title: "Portfolio"
+    title: "Teams"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
